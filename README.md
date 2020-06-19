@@ -4,7 +4,7 @@
 
 # Инструкция
 
-termux
+# termux
 
 pkg install python -y 
 
@@ -14,7 +14,7 @@ git clone https://github.com/kotik06/bomb
 
 cd bomb && python3 bomb.py
 
-Linux
+ # Linux
 
 
 apt install python -y 
@@ -24,3 +24,6 @@ apt install git -y
 git clone https://github.com/kotik06/bomb
 
 cd bomb && python3 bomb.py
+# WINDOWS
+
+run win.exe
