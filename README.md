@@ -2,10 +2,10 @@
 
 # Автор не несет ответственности за причиненный ущерб
 
-# Инструкция
+## Инструкция
 
-# termux
-
+### Termux
+```bash
 pkg install python -y 
 
 pkg install git -y
@@ -13,17 +13,13 @@ pkg install git -y
 git clone https://github.com/kotik06/bomb
 
 cd bomb && python3 bomb.py
-
- # Linux
-
-
+```
+### Linux
+```bash
 apt install python -y 
-
 apt install git -y
-
-git clone https://github.com/kotik06/bomb
-
+git clone https://github.com/1Rayko/bomb
 cd bomb && python3 bomb.py
-# WINDOWS
-
+```
+### WINDOWS
 run win.exe
